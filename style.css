@@ -1,0 +1,22 @@
+table{
+    border: 3px solid black;
+}
+th{
+    border: 3px solid black;
+    background-color: aqua;
+}
+
+.nika{
+    border: 3px dotted black;
+    background-color: darkorange;
+}
+
+.kaxa{
+    border: 3px solid black;
+    background-color:indianred;
+}
+
+.gio{
+    border: 3px dashed black;
+    background-color: yellowgreen;
+}
